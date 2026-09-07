@@ -19,12 +19,16 @@ author: "Sebastian Maniak"
 ---
 
 Most of what I've written about [agentgateway](https://agentgateway.dev) runs
-on Kubernetes. That's the right home for it in production. It's the wrong
-first step when all you want is a **public HTTPS URL** you can hand to a
-teammate, point an IDE at, and click around in — today, without a kind
-cluster, an ingress controller, and a cert-manager issuer.
+on Kubernetes. That's the right home for it in production. 
+<br>
+But if you want something fast that runs in render.com and all you want is a **public HTTPS URL** you can hand to a
+teammate, point an IDE at, and click around in — today, without a kind cluster, an ingress controller, and a cert-manager issuer.
 
-This article is that shortcut. It's the hands-on build of the
+<br>
+This article is that shortcut. 
+
+<br>
+It's the hands-on build of the
 [`34-render-deploy-agw`](https://github.com/sebbycorp/agentgateway-demos/tree/main/34-render-deploy-agw)
 demo: standalone agentgateway **1.5.0** running as one [Render](https://render.com)
 Web Service. Budget about 20 minutes.
