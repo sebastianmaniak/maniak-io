@@ -25,9 +25,6 @@ But if you want something fast that runs in render.com and all you want is a **p
 teammate, point an IDE at, and click around in — today, without a kind cluster, an ingress controller, and a cert-manager issuer.
 
 <br>
-This article is that shortcut. 
-
-<br>
 It's the hands-on build of the
 [`34-render-deploy-agw`](https://github.com/sebbycorp/agentgateway-demos/tree/main/34-render-deploy-agw)
 demo: standalone agentgateway **1.5.0** running as one [Render](https://render.com)
