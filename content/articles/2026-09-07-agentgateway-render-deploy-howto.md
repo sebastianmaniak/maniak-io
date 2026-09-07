@@ -31,8 +31,10 @@ This article is that shortcut.
 It's the hands-on build of the
 [`34-render-deploy-agw`](https://github.com/sebbycorp/agentgateway-demos/tree/main/34-render-deploy-agw)
 demo: standalone agentgateway **1.5.0** running as one [Render](https://render.com)
-Web Service. Budget about 20 minutes.
+Web Service. 
 
+<br>
+<br>
 When you're done, one hostname serves three things:
 
 | Public path | Who uses it | How it's protected |
